@@ -16,6 +16,7 @@ h1{
 
 }
 .donate-button{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, olive);
     padding: 10px 40px;
@@ -60,6 +61,7 @@ h1{
     border-color: aliceblue;
 }
 #donate-taka{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(rgb(172, 216, 101), rgb(143, 143, 56));
     padding: 8px 30px;

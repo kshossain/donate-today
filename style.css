@@ -1,0 +1,100 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.banner{
+    background-image: url(images/donation13.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 80px;
+
+}
+.donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, olive);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.donate-here{
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+}
+.donate-text {
+    margin-bottom: 40px;
+}
+.amount span{
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    padding: 25px 15px;
+    margin-right: 7px;
+    border: 2px;
+    border-radius: 5px;
+    background-color: rgb(243, 239, 233);
+}
+#second-opt{
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    padding: 25px 15px;
+    margin-right: 7px;
+    border: 2px solid green;
+    border-radius: 5px;
+    background-color: rgb(243, 239, 233);
+}
+#taka{
+    padding-right: 120px;
+    padding-left: 160px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-color: aliceblue;
+}
+#donate-taka{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(172, 216, 101), rgb(143, 143, 56));
+    padding: 8px 30px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+}
+.planning{
+    text-align: center;
+}
+.flexiblity{
+    display: flex;
+}
+.disaster{
+    text-align: left;
+    width: 30%;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+#food{
+    margin-left: 5%;
+    background-color: #EDF5F6;
+}
+#shelter{
+    margin-left: 10px;
+    background-color: #FFEEEE;
+}
+#education{
+    margin-left: 10px;
+    background-color: #FFF4D6;
+    margin-right: 5%;
+}
+
+
+
+
